@@ -1,0 +1,45 @@
+Java
+
+Object-oriented programming language
+
+Creating Maven Project:
+
+File --> new -->project--->maven 
+                            expand (maven project)
+  ---> next--> click on simple project check box--->enter grou id & Artifact id --> finally click on finish
+
+src/main/java  --dev team
+src/test/java  -- tester
+other than .java files -- xlsx,property file
+src/main/resource 
+src/test/resource
+
+Class:
+ Class is a group of objects which have common properties. It is a Blueprint or template from which objects are created. A Java class can contain a filed, constructor, and block of code.
+
+
+JDK- Java Development Kit
+JRE - Java Runtime Environment
+JVM - Java  Virtual Machine
+
+syntax for method
+AccessModifier ReturnType methodName(Aruguments if needed){
+
+}
+
+public void switchOnAc(){
+// block of code
+}
+
+
+public --Access Modifiers
+void-- return type
+
+
+Syntax for object:
+ClassName objectName=new ClassName();
+
+Object:
+1. An instance of a class is called Object.
+2. Object is real-time entity or real-world entity
+
