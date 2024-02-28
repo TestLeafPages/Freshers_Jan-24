@@ -1,0 +1,47 @@
+Variables:
+ Variables is container to store the values,
+ Variables assigned with data types.
+
+Types:
+1.Local Variables
+2.Global Variables
+3.static Variables
+
+Local Variables                 Global Variables
+1.If you are declaring the   If you are declaring the
+variables inside a method   variables outside of a method 
+that is called as local     and inside a class that is 
+variables                   called as Global Variables
+
+2.We can use Access        We can not use any Accsss
+Modifiers in Global        Modifiers in local variables
+Variables
+
+
+Acess Modifiers:
+1.public  -- with in a project
+2.private  -- with in class
+3.protected   --we can use same packages, we can able to use another packages also but the class should be inherited
+4.default (or) packages  -- with in packages
+
+
+
+
+Swapping between Two Number
+int a=50;
+int b=100;
+
+
+output:
+a=100;
+b=50;
+
+
+
+Classroom:
+
+
+Swap two numbers using temp variables and without temp variable
+
+int a=20;
+int b=80;
